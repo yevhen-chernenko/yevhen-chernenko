@@ -15,11 +15,11 @@ Senior Front-End Engineer @ GlobalLogic — Kyiv, Ukraine (he/him)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yevhen-chernenko&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats-yevhen-chernenkos-projects.vercel.app/api?username=yevhen-chernenko&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhen-chernenko&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-yevhen-chernenkos-projects.vercel.app/api/top-langs/?username=yevhen-chernenko&layout=compact&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yevhen-chernenko&theme=flat&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-henna-eight.vercel.app/?username=yevhen-chernenko&theme=flat&no-frame=true&row=1&column=6)
 ![Snake animation](https://raw.githubusercontent.com/yevhen-chernenko/yevhen-chernenko/output/github-contribution-grid-snake.svg)
 
 ---
