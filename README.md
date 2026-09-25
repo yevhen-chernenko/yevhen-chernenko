@@ -8,15 +8,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
 ## About
 
-- 🎮 Started in game dev (2015) and moved to web (2019)
-- 💾 Retro computing nerd. Happy place is roughly 1999–2006. Windows XP, DirectX 9, Daemon Tools, Nero Burning ROM, Alcohol 120%, Winamp, Total Commander. If any of these words put a smile on your face, we will probably get along.
-- 🐧 My obsessions these days: Linux and open-source software, car culture, simracing, F1, PC and gaming-related hardware, tech in general.
-- 🐱 Owned by a cat
-
-![Codename 92](assets/codename92.svg)
+- Started in game dev (2015) and moved to web (2019).
+- My obsessions these days: Linux and open-source software, retro computing (happy place is roughly 1999–2006), game development (Godot), car culture, simracing, F1, PC and gaming-related hardware, tech in general.
+- Owned by a cat.
 
 ## Stats
 
