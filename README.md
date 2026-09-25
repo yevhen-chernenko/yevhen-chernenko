@@ -9,8 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
----
-
 ## About
 
 - 🎮 Started in game dev (2015) and moved to web (2019)
@@ -19,8 +17,6 @@
 - 🐱 Owned by a cat
 
 ![Codename 92](assets/codename92.svg)
-
----
 
 ## Stats
 
